@@ -1,14 +1,45 @@
+/*Basic Styles*/
+
+* {
+    font-family: helvetica;
+}
 
 body {
-  background-color: #38bada;  
+  background-color: #1499ba;  
 }
 
 h1 {
     color: #fc6900;
-    font-family: helvetica;
+    font-size: 79px;
+    margin-top: -5px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+.titleShadow {
     text-shadow: 2px 2px #000000;
 }
 
-.whiteBackground {
-    background-color: white;
+.titleImage {
+    margin-left: 17px;
 }
+
+li {
+    margin-left: -10px;
+    margin-bottom: 7px;
+    color: #fc6900;
+}
+
+
+
+a {
+    color:#ffffff;
+}
+
+/*Test Styles*/
+
+.areaHighlight{
+    background-color: #f7f7f7;
+    border: 3px solid #ff0000;
+}
+
