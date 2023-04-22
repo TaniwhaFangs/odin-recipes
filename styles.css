@@ -1,0 +1,14 @@
+
+body {
+  background-color: #38bada;  
+}
+
+h1 {
+    color: #fc6900;
+    font-family: helvetica;
+    text-shadow: 2px 2px #000000;
+}
+
+.whiteBackground {
+    background-color: white;
+}
