@@ -105,9 +105,10 @@ a {
    box-shadow: 2px 2px 10px #17914a;
  }
 
-.center-home {
+ .center-back-button {
+    width: 130px;
+    margin: 0 auto;
  }
-
 
 /*
 #f5b041
